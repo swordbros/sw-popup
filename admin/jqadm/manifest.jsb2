@@ -1,0 +1,22 @@
+{
+	"projectName": "sw-popup",
+	"licenseText": "proprietary",
+	"pkgs": [{
+		"name": "sw-popup CSS",
+		"file": "sw-popup.css",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.css",
+			"path": "themes/"
+		}]
+	}, {
+		"name": "sw-popup JS",
+		"file": "sw-popup.js",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.js",
+			"path": "js/"
+		}]
+	}],
+	"resources" : []
+}
