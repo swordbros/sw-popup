@@ -2,8 +2,9 @@
 
 # Introduction
 
-This package supports PHP 7.2 and higher 
-You can easily add popup to your website using this plugin
+This plugin supports PHP 7.2 and higher 
+You can easily add popup to your website using this plugin.
+This plugin is compatible with aimeos version 2020.07.6
 # Download
 
 ## Composer 
